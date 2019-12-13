@@ -1,0 +1,11 @@
+C:\Users\Veritas\Desktop\ShoppingListInCSharp\bin\Debug\netcoreapp3.0\ShoppingListInCSharp.exe
+C:\Users\Veritas\Desktop\ShoppingListInCSharp\bin\Debug\netcoreapp3.0\ShoppingListInCSharp.deps.json
+C:\Users\Veritas\Desktop\ShoppingListInCSharp\bin\Debug\netcoreapp3.0\ShoppingListInCSharp.runtimeconfig.json
+C:\Users\Veritas\Desktop\ShoppingListInCSharp\bin\Debug\netcoreapp3.0\ShoppingListInCSharp.runtimeconfig.dev.json
+C:\Users\Veritas\Desktop\ShoppingListInCSharp\bin\Debug\netcoreapp3.0\ShoppingListInCSharp.dll
+C:\Users\Veritas\Desktop\ShoppingListInCSharp\bin\Debug\netcoreapp3.0\ShoppingListInCSharp.pdb
+C:\Users\Veritas\Desktop\ShoppingListInCSharp\obj\Debug\netcoreapp3.0\ShoppingListInCSharp.csprojAssemblyReference.cache
+C:\Users\Veritas\Desktop\ShoppingListInCSharp\obj\Debug\netcoreapp3.0\ShoppingListInCSharp.AssemblyInfoInputs.cache
+C:\Users\Veritas\Desktop\ShoppingListInCSharp\obj\Debug\netcoreapp3.0\ShoppingListInCSharp.AssemblyInfo.cs
+C:\Users\Veritas\Desktop\ShoppingListInCSharp\obj\Debug\netcoreapp3.0\ShoppingListInCSharp.dll
+C:\Users\Veritas\Desktop\ShoppingListInCSharp\obj\Debug\netcoreapp3.0\ShoppingListInCSharp.pdb
