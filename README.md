@@ -1,8 +1,8 @@
 # Shopping List C Sharp
 
-# Pointer C# practice
-{
-/*
+## Learning C# by connecting C++ and C# concepts
+
+
              C++                                                    C#
              ------------------------------------------------------------------------------------
              cout << "Hi!";                                         Console.Write("Hi!");
@@ -40,4 +40,3 @@
             //Console.Write("Hello ");
             //Console.ForegroundColor = ConsoleColor.Yellow;
             //Console.WriteLine("World!");
-}
