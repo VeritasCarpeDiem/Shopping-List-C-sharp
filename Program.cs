@@ -59,8 +59,7 @@ namespace ShoppingListInCSharp
             User Shopper = new User();
            
             Shopper.ItemCount = 0;
-            Shopper.Item=null;
-            // Shopper.ItemName = "";
+            Shopper.Item = null;
 
             do
             {
@@ -90,10 +89,9 @@ namespace ShoppingListInCSharp
             for (int i = 0; i < Shopper.ItemCount; i++)
             {
                 // cout << "Item #" << i + 1 << ": " <<  << endl;
-                Console.Write("Item # ");
-                Console.Write(i+1);
-                Console.Write(": ");
-                Console.WriteLine(Shopper.Item[i]);
+                Console.Write($"Item # { i + 1}");
+                Console.WriteLine($": {Shopper.Item[i]}");
+                
             }
         }
         static bool IsItemDuplicate(User Shopper, string TempItem)//input validation function
@@ -132,12 +130,12 @@ namespace ShoppingListInCSharp
         static bool IsUserInputValid(string TempItem)
         {
            // string alphabet = "abcdefghijklmnopqrstuvwxyz";
-            // instead of using this ^, use ascii table
+            // instead of using this ^, use ascii values
             for(int i=0;i<TempItem.Length;i++)
             {
                 if((TempItem[i]>=65 && TempItem[i]<=90) || (TempItem[i]>=97 && TempItem[i]<=122))
                 {
-                    return true;
+                    continue;
                 }
                 else
                 {
