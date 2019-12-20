@@ -173,7 +173,6 @@ namespace ShoppingListInCSharp
             if (IsItemDuplicate(Shopper, TempItem) == true) //check if item user entered is a duplicate
             {
                 Console.WriteLine("Item is a duplicate. Please Enter another item");
-
             }
 
             else
